@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    min-height: 100vh;
+}
+
+.user {
+    width: 100px;
+    height: 100px;
+    bottom: 65%;
+    background-color: black;
+}
+
+.user i {
+    font-size: 50px;
+}
+
+.containt {
+    width: 450px;
+    height: 260px;
+    background-color: black;
+}
+
+ 
+.Fpass{
+    margin-left: 145px;
+    font-size: 14px;
+}
+
+.button{
+    top: 20px;
+}

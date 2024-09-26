@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner-bg {
+    background-image: linear-gradient(-55deg, #bdc3c7, #2c3e50);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.pic img {
+    width: 300px;
+}
